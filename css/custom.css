@@ -1,8 +1,11 @@
 body {
     font-family: YekanBakh;
     font-weight: 500;
+    text-decoration: none;
 }
 
+a {
+}
 
 @font-face {
     font-family: YekanBakh;
