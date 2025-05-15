@@ -4,7 +4,8 @@ body {
     text-decoration: none;
 }
 
-a {
+.w_inherit {
+    width: inherit;
 }
 
 @font-face {
