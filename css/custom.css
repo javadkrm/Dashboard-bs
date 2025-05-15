@@ -4,9 +4,10 @@ body {
     text-decoration: none;
 }
 
-.w_inherit {
+.w_inherit { 
     width: inherit;
 }
+
 
 @font-face {
     font-family: YekanBakh;
